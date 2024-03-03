@@ -16,6 +16,19 @@
 ---------------
 Screenshots:
 
+![](/images/shop1.png "Welcome Screen")
+
+![](/images/shop2.png "Main Menu")
+
+![](/images/shop3.png "Add Stocks")
+
+![](/images/shop4.png "View Available Stocks")
+
+![](/images/shop5.png "Bill Receipt")
+
+![](/images/shop6.png "Current Status")
+
+![](/images/shop7.png "End Screen")
 
 
 
