@@ -14,11 +14,9 @@ class items
     string prodname[8];
     
     string custname,custaddress,custphone;
-    int n=0,custage,day,month,year,prodIds[8],qtypurchased[8];
+    int n=0,custage,day,month,year,prodIds[8],qtypurchased[8]={0};
 
- 
-    
-    
+
     void get();
     void deletion();
     void sortingqty();
@@ -329,7 +327,7 @@ void items::display()
     cout<<endl;
     for(i=0;i<totitems;i++)
     {
-        cout<<setw(55)<<left<<right<<prodname[i]<<setw(10)<<prodId[i]<<setw(14)<<qty[i]-qtypurchased[i]<<setw(19)<<cost[i]<<setw(17)<<(cost[i]*(qty[i]-qtypurchased[i]))<<endl;
+        cout<<setw(55)<<left<<right<<prodname[i]<<setw(10)<<prodId[i]<<setw(14)<<(qty[i]-qtypurchased[i])<<setw(19)<<cost[i]<<setw(17)<<(cost[i]*(qty[i]-qtypurchased[i]))<<endl;
     }
     }
     
