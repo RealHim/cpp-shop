@@ -20,15 +20,17 @@ Screenshots:
 
 ![](/images/shop2.png "Main Menu")
 
-![](/images/shop3.png "Add Stocks")
+![](/images/shop3.png "Manage Stocks")
 
-![](/images/shop4.png "View Available Stocks")
+![](/images/shop4.png "Add Stocks")
 
-![](/images/shop5.png "Bill Receipt")
+![](/images/shop5.png "View Available Stocks")
 
-![](/images/shop6.png "Current Status")
+![](/images/shop6.png "Bill Receipt")
 
-![](/images/shop7.png "End Screen")
+![](/images/shop7.png "Current Status")
+
+![](/images/shop8.png "End Screen")
 
 
 
