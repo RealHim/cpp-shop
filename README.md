@@ -1,4 +1,4 @@
-# cpp_shop_program
+# cpp-shop-program
 ## C++ based Shop Management Project ##
 ---------------
 * Manage your stocks by
